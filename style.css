@@ -1,3 +1,24 @@
-h1{
-color: teal;
+body{
+    background-color: rgb(142, 161, 112);
+
 }
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.imagem{
+    width: 40%;
+    margin-left: 9%;
+}
+
+.ferido { 
+    width: 40%;
+    margin-left: 25%;
+}
+
+.alistamento{
+    width: 40%;
+margin-left: 25%;}
+
